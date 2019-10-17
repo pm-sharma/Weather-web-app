@@ -1,6 +1,6 @@
 # Weather-web-app
 
-Group project collaborated with @satin-04 , @pm-sharma
+Group project collaborated with @satin-04 , @nikhils4
 
 This is a weather app deployed on following website - https://weather-io.herokuapp.com
 
